@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "typescript": "^5.9.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardsebold/fokus-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/richardsebold/fokus-ts/issues"
+  },
+  "homepage": "https://github.com/richardsebold/fokus-ts#readme"
 }
